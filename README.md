@@ -19,7 +19,7 @@ I'm **Samba Nugraha**, a passionate developer from Indonesia. I specialize in so
 
 ## 📫 Connect with me
 
-![GitHub](https://github.com/sambanf)
+!GitHub
 
 ## 📚 Latest Blog Posts
 
