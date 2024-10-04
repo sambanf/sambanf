@@ -19,73 +19,72 @@ I'm **Samba Nugraha**, a passionate developer from Indonesia. I specialize in so
 <p align="left">
 <a href="https://dev.to/sambanugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sambanugraha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sambanugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambanugraha" height="30" width="40" />
-  
+
 # Technology Stack
 
 ## Mobile Development
 - [Android](https://developer.android.com)  
-  ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
 
 ## Programming Languages
 - [C](https://www.cprogramming.com/)  
-  ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 - [C++](https://www.w3schools.com/cpp/)  
-  ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 - [C#](https://www.w3schools.com/cs/)  
-  ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 - [Go](https://golang.org)  
-  ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
 - [Elixir](https://elixir-lang.org)  
-  ![Elixir](https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
 - [TypeScript](https://www.typescriptlang.org/)  
-  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
 ## Web Development
 - [Node.js](https://nestjs.com/)  
-  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 - [React](https://reactjs.org/)  
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 - [Express](https://expressjs.com)  
-  ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 - [Spring](https://spring.io/)  
-  ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
 
 ## Database Technologies
 - [MongoDB](https://www.mongodb.com/)  
-  ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 - [MySQL](https://www.mysql.com/)  
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 - [PostgreSQL](https://www.postgresql.org)  
-  ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)  
-  ![MSSQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
 
 ## Containerization and Orchestration
 - [Docker](https://www.docker.com/)  
-  ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 - [Kubernetes](https://kubernetes.io)  
-  ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
 
 ## Message Brokers
 - [RabbitMQ](https://www.rabbitmq.com)  
-  ![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
 
 ## Version Control
 - [Git](https://git-scm.com/)  
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
 ## Machine Learning
 - [TensorFlow](https://www.tensorflow.org)  
-  ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 
 ## Operating Systems
 - [Linux](https://www.linux.org/)  
-  ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
 ## GraphQL
 - [GraphQL](https://graphql.org)  
-  ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg)
-
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
 
 
 ## Mostly Used Language
