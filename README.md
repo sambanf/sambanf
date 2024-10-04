@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sambanf/sambanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Samba Nugraha**, a passionate developer from Indonesia. I specialize in software development and have a keen interest in technology, gadgets, and software.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various projects involving web development and software engineering.
+- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 🤔 I’m looking for help with improving my skills in AI and machine learning.
+- 💬 Ask me about web development, software engineering, and tech gadgets.
+- 📫 How to reach me: LinkedIn | Email
+- ⚡ Fun fact: I love exploring new tech gadgets and staying updated with the latest in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Express
+
+## 📈 GitHub Stats
+
+!Samba's GitHub Stats
+
+## 📫 Connect with me
+
+![GitHub](https://github.com/sambanf)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
