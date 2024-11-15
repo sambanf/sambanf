@@ -21,8 +21,12 @@ I'm **Samba Nugraha**, a passionate developer from Indonesia. I specialize in so
 <a href="https://www.hackerrank.com/sambanugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambanugraha" height="30" width="40" />
 
 ## Mostly Used Language
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambanf&show_icons=true&locale=en&layout=compact" alt="sambanf" /></p>
-<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sambanf&show_icons=true&locale=en&layout=compact" alt="sambanf" />
+</p>
 
 ## 📈 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambanf&show_icons=true&locale=en" alt="sambanf" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sambanf&show_icons=true&locale=en" alt="sambanf" />
+</p>
+
