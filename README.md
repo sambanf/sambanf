@@ -10,11 +10,6 @@ I'm **Samba Nugraha**, a passionate developer from Indonesia. I specialize in so
 - 📫 How to reach me: LinkedIn | Email
 - ⚡ Fun fact: I love exploring new tech gadgets and staying updated with the latest in technology.
 
-## 🛠️ My Skills
-
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sambanugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sambanugraha" height="30" width="40" /></a>
