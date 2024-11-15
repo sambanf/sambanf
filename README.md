@@ -22,6 +22,7 @@ I'm **Samba Nugraha**, a passionate developer from Indonesia. I specialize in so
 
 ## Mostly Used Language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambanf&show_icons=true&locale=en&layout=compact" alt="sambanf" /></p>
+<br>
 
 ## 📈 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambanf&show_icons=true&locale=en" alt="sambanf" /></p>
